@@ -53,6 +53,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [RudderStack](https://rudderstack.com/) - Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `Elastic-2.0` `Docker/K8S/Go/Nodejs`
+- [UXWizz](https://www.uxwizz.com/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests, AI and more. `⊘ Proprietary` `Docker/PHP/MySQL/Apache`
 
 
 ### Automation
